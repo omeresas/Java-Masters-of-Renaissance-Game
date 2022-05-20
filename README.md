@@ -10,6 +10,7 @@ This repository contains the code and documentation artifacts for the Java imple
   - [Sequence Diagrams](#sequence-diagrams)
 - [How to Run the Game](#how-to-run-the-game)
 - [Screenshots of the Game](#screenshots-of-the-game)
+- [Contributors](#contributors)
 
 ## About the Board Game
 
@@ -32,7 +33,7 @@ In our design, we shared tasks into a **one common server instance**, and **one 
 ### Class Diagrams
 
 - [Initial MVC Design Class Diagram](/deliveries/final/UML/ClassDiagramMVC.pdf)
-- [Final Auto-Generated Class Diagram of Entire Application](/deliveries/final/UML/finalClassDiagram.pdf)
+- [Final Class Diagram](/deliveries/final/UML/finalClassDiagram.pdf)
 
 ### Sequence Diagrams
 
